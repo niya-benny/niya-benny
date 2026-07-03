@@ -82,7 +82,7 @@ Build impactful AI products that solve real-world problems.
 
 </div>
 
-<p align="center">
+<!-- <p align="center">
 
 
 ![](https://github-readme-stats.vercel.app/api?username=niya-benny&show_icons=true&theme=tokyonight)
@@ -90,6 +90,17 @@ Build impactful AI products that solve real-world problems.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=niya-benny&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niya-benny&layout=compact&theme=tokyonight)
+</p> -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niya-benny&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niya-benny&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niya-benny&theme=tokyonight" />
 </p>
 
 <p align="center">
