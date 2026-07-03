@@ -58,7 +58,6 @@ Build impactful AI products that solve real-world problems.
 <br><br>
 
 <!-- Databases -->
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -84,11 +83,18 @@ Build impactful AI products that solve real-world problems.
 </div>
 
 <p align="center">
-## GitHub Stats
+
 
 ![](https://github-readme-stats.vercel.app/api?username=niya-benny&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=niya-benny&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niya-benny&layout=compact&theme=tokyonight)
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=niya-benny&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <a href="https://github.com/niya-benny?tab=followers">
+    <img src="https://img.shields.io/github/followers/niya-benny?label=Followers&style=for-the-badge&color=blue" />
+  </a>
+</p>
