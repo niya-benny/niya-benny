@@ -92,12 +92,12 @@ Build impactful AI products that solve real-world problems.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niya-benny&layout=compact&theme=tokyonight)
 </p>  -->
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=niya-benny&show_icons=true&theme=tokyonight"/>
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niya-benny&layout=compact&theme=tokyonight"/>
-</p>
+</p> -->
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=niya-benny&theme=tokyonight"/>
