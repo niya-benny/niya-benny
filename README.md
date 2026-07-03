@@ -26,35 +26,25 @@
 🎯 Goal:
 Build impactful AI products that solve real-world problems.
 
+</p>
 
 ## 💻 Tech Stack
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=python,r,mysql,tensorflow,pytorch,flask,mongodb,git,github" />
 
-<img src="https://skillicons.dev/icons?i=pytorch"/>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
-<img src="https://skillicons.dev/icons?i=flask"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
+<!-- Libraries & Tools -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="48" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" alt="Scikit-Learn" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" alt="Tableau" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" alt="Excel" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" alt="Google Colab" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/seaborn.svg" alt="Seaborn" width="48" height="48"/>
 
 </p>
