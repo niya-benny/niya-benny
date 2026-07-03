@@ -80,7 +80,8 @@ Build impactful AI products that solve real-world problems.
 
 </div>
 
-## 📊 GitHub Stats
+<p align="center">
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=niya-benny&show_icons=true&theme=tokyonight)
 
@@ -88,6 +89,7 @@ Build impactful AI products that solve real-world problems.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niya-benny&layout=compact&theme=tokyonight)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=niya-benny&theme=algolia)
+</p>
