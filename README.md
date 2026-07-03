@@ -90,18 +90,19 @@ Build impactful AI products that solve real-world problems.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=niya-benny&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niya-benny&layout=compact&theme=tokyonight)
-</p> -->
+</p>  -->
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niya-benny&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niya-benny&layout=compact&theme=tokyonight" height="180em"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=niya-benny&show_icons=true&theme=tokyonight"/>
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niya-benny&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niya-benny&theme=tokyonight" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=niya-benny&theme=tokyonight"/>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=niya-benny&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
