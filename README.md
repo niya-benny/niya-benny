@@ -14,7 +14,7 @@
 
 🏢 Former Data Science Intern at Orion Innovation
 
-🌱 Currently exploring
+Currently exploring
 
 - Generative AI
 - Agentic AI
