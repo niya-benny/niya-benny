@@ -100,10 +100,13 @@ Build impactful AI products that solve real-world problems.
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niya-benny&layout=compact&theme=tokyonight"/>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=niya-benny&theme=tokyonight"/>
-</p>
+</p> -->
 
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com/?user=niya-benny&theme=tokyonight"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=niya-benny&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
