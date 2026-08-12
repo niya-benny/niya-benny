@@ -105,7 +105,7 @@ Build impactful AI products that solve real-world problems.
 </p> -->
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=niya-benny&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niya-benny&theme=tokyo-night" width="100%"/>
 </p>
 
 <p align="center">
